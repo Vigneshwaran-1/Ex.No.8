@@ -1,7 +1,7 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+# Date : 10/11/2025
+# Reg. No. 212224040358
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -47,6 +47,44 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 2.	The Final Generated Image: The image created using your refined prompt.
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated images, along with any adjustments made to the prompt.
+## Original image
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8670cc18-3eb8-48de-a03c-dc880cdee15e" />
+
+
+
+## Simple prompt
+Make a pic of adult lion which lying on dark  grey rock and stares . The above sky is fullfilled with dark thunderclouds which sunrays breaking through it .
+
+ ## Image generated
+ 
+ <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/62c1a35f-1c96-404b-af40-3dab442fc964" />
+
+## Detailed Prompt
+A majestic adult male lion with a full, golden-brown mane rests on top of a rugged grey rock formation under a dramatic, stormy sky. The lion is lying down proudly with its front paws stretched forward and head held high, gazing into the distance. The mane is thick, slightly windswept, and richly textured with deep shadows and warm highlights. The background sky is filled with dark thunderclouds, pierced by rays of sunlight breaking through, creating a powerful contrast between light and shadow. The lighting is cinematic and moody, resembling late evening golden hour, with warm tones illuminating the lion and cool tones in the clouds. The scene conveys strength, calmness, and regality. The focus is sharp on the lion, with realistic fur details, soft depth of field, and natural lighting. Ultra-realistic, high resolution, 8K wildlife photography style.
+
+# Image generated
+
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f88fdb93-c072-4c8f-ae7d-7e43f946992d" />
+
+
+
+## Comparison between original and ai generated
+
+| Feature        | Original         | Image by simple prompt       |Image by detailed prompt |
+| -------------- | ---------------- | ---------------------------- | ----------------------- |
+| **Pose**       | Lying, regal     | Similar, more centered       | Nearly identical        |
+| **Lighting**   | Golden hour rays | Strong cinematic contrast    | Softer natural sunlight |
+| **Clouds**     | Dark, detailed   | Dramatic and dense           | Mildly stormy           |
+| **Color Tone** | Warm & balanced  | High contrast, golden-orange | Neutral golden-brown    |
+| **Expression** | Calm, proud      | Intense and direct           | Calm, observant         |
+| **Realism**    | High (photo)     | Hyperrealistic               | Natural & lifelike      |
+
+
+
+
+
 
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
